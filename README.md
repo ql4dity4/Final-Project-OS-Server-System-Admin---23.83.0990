@@ -1,8 +1,4 @@
-# Final-Project-OS-Server-System-Admin---
-Nama : Qhomar Latif Praditya
-
-NIM : 23.83.0990
----
+# Final-Project-OS-Server-System-Admin
 **10 Desember 2024**
 ### **Persiapan Awal**
 **Install Ubuntu Server 20.04**:
